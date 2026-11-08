@@ -9,7 +9,7 @@ La sécurité offensive consiste à adopter le point de vue
 d'un attaquant pour identifier des faiblesses et améliorer
 la protection des systèmes.
 
-DIRB
+DIRB : 
 
 Dans le lab, j'ai découvert la commande :
 
